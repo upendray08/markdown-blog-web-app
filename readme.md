@@ -6,10 +6,8 @@ This is a Markdown-based blog web application that allows users to create, edit,
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
